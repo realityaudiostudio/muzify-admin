@@ -1,0 +1,75 @@
+.sdall
+{
+    width: fit-content;
+flex-shrink: 0;
+border-radius: 0px 16px 16px 0px;
+background: var(--BLUES-950, #0E315D);
+padding-left: 46px;
+padding-right: 46px;
+color: #EDFAFF;
+width: 251px;
+height: 100vh;
+padding-top: 30px;
+}
+.sdtop p
+{
+    text-align: right;
+    margin: 0;
+    color: #FFF;
+font-family: Kodchasan;
+font-size: 12px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+.sdtop{
+    margin-bottom: 71px;
+}
+.sdtop img{
+    width: 80%;
+flex-shrink: 0;
+margin-left: auto;
+margin-bottom: auto;
+}
+.sdit
+{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+margin-bottom: 100px;
+}
+.sditi
+{
+    display: flex;
+justify-content: left;
+align-items: center;
+gap: 5px;
+align-self: stretch;
+
+}
+.sditi img
+{
+    width: 24px;
+height: 24px;
+flex-shrink: 0;
+}
+.sditi p
+{
+    color: #FFF;
+font-family: Kodchasan;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.sdfoot
+{
+    color: #FFF;
+font-family: Kodchasan;
+font-size: 12px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+text-align: center;
+}

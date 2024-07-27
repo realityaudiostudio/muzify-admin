@@ -1,0 +1,43 @@
+.dshh
+{
+    color:#0E315D;
+font-family: Kodchasan;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.dcount
+{
+    display: inline-flex;
+align-items: center;
+gap: 32px;
+}
+.dcounti
+{
+    display: flex;
+padding: 10px 15px;
+align-items: center;
+gap: 62px;
+border-radius: 18px;
+background: #B5EAFF;
+}
+.dct p{
+    color:  #0E315D;
+font-family: Kodchasan;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin: 5px;
+}
+.dct h3
+{
+    color: var(--BLUES-950, #0E315D);
+font-family: Kodchasan;
+font-size: 48px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin: 0;
+}
