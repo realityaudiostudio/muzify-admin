@@ -6,6 +6,7 @@ font-size: 32px;
 font-style: normal;
 font-weight: 600;
 line-height: normal;
+
 }
 .dcount
 {
@@ -40,4 +41,50 @@ font-style: normal;
 font-weight: 600;
 line-height: normal;
 margin: 0;
+}
+.orprt
+{   
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    gap: 21px;
+    
+}
+.ort
+{
+    width: 50%;
+    border-radius: 18px;
+background: var(--BLUES-100, #D6F2FF);
+padding: 20px 23px;
+margin-top: 53px;
+
+}
+.ort h2{
+    color: var(--BLUES-950, #0E315D);
+font-family: Kodchasan;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.tbl
+{
+    border-collapse: collapse;
+    width: 100%;
+}
+.tbl td,th
+{
+    text-align: left;
+    padding: 15px;
+    color: #0E315D;
+font-family: Kodchasan;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.tbl th{
+    font-weight: bold;
+    border: none;
 }

@@ -30,6 +30,89 @@ function Dashboard() {
                 <img src={cus} alt='customer'></img>
             </div>
         </div>
+        <div className="orprt">
+            <div className="ort">
+            <h2>Orders</h2>
+            <table className='tbl'>
+                <tr>
+                    <th>Sl No</th>
+                    <th>Order ID</th>
+                    <th>date</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>mco36800001</td>
+                    <td>10-12-2024</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>mco36800001</td>
+                    <td>10-12-2024</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>mco36800001</td>
+                    <td>10-12-2024</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>mco36800001</td>
+                    <td>10-12-2024</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>mco36800001</td>
+                    <td>10-12-2024</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>mco36800001</td>
+                    <td>10-12-2024</td>
+                </tr>
+            </table>
+        </div>
+        {/* second */}
+        <div className="ort">
+            <h2>Orders</h2>
+            <table className='tbl'>
+                <tr>
+                    <th>Sl No</th>
+                    <th>Order ID</th>
+                    <th>date</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>mco36800001</td>
+                    <td>10-12-2024</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>mco36800001</td>
+                    <td>10-12-2024</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>mco36800001</td>
+                    <td>10-12-2024</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>mco36800001</td>
+                    <td>10-12-2024</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>mco36800001</td>
+                    <td>10-12-2024</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>mco36800001</td>
+                    <td>10-12-2024</td>
+                </tr>
+            </table>
+        </div>
+        </div>
     </div>
   )
 }
